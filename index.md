@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="card">
-  <img src="img.jpg" alt="Keshav" style="width:100%">
+  <img src="myprofile.jpeg" alt="Keshav" style="width:20%">
   <h1>Keshav Kumar Choudhary</h1>
   <p class="title">CS Student</p>
   <p>DAV Institute of Engineering and Technology</p>
